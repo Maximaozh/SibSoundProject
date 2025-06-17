@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Home\\Projects\\CSharp\\Laboratory_6\\KeyGenFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF568C02-4584-45F5-B704-9D3CAFAC8172}|KeyGenFramework\\KeyGenFramework.csproj|C:\\Home\\Projects\\CSharp\\Laboratory_6\\KeyGenFramework\\keygenframework\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF568C02-4584-45F5-B704-9D3CAFAC8172}|KeyGenFramework\\KeyGenFramework.csproj|solutionrelative:keygenframework\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF568C02-4584-45F5-B704-9D3CAFAC8172}|KeyGenFramework\\KeyGenFramework.csproj|C:\\Home\\Projects\\CSharp\\Laboratory_6\\KeyGenFramework\\keygenframework\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF568C02-4584-45F5-B704-9D3CAFAC8172}|KeyGenFramework\\KeyGenFramework.csproj|solutionrelative:keygenframework\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF568C02-4584-45F5-B704-9D3CAFAC8172}|KeyGenFramework\\KeyGenFramework.csproj|C:\\Home\\Projects\\CSharp\\Laboratory_6\\KeyGenFramework\\keygenframework\\myaes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF568C02-4584-45F5-B704-9D3CAFAC8172}|KeyGenFramework\\KeyGenFramework.csproj|solutionrelative:keygenframework\\myaes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maxim\\AppData\\Local\\Temp\\.vsdbgsrc\\1c0276bcbed3fceb49500b37181d1b62ee18f1ab82cde7bb2e530418b72f2b63\\Process.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF568C02-4584-45F5-B704-9D3CAFAC8172}|KeyGenFramework\\KeyGenFramework.csproj|c:\\home\\projects\\csharp\\laboratory_6\\keygenframework\\keygenframework\\keygen.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{DF568C02-4584-45F5-B704-9D3CAFAC8172}|KeyGenFramework\\KeyGenFramework.csproj|solutionrelative:keygenframework\\keygen.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF568C02-4584-45F5-B704-9D3CAFAC8172}|KeyGenFramework\\KeyGenFramework.csproj|C:\\Home\\Projects\\CSharp\\Laboratory_6\\KeyGenFramework\\keygenframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF568C02-4584-45F5-B704-9D3CAFAC8172}|KeyGenFramework\\KeyGenFramework.csproj|solutionrelative:keygenframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF568C02-4584-45F5-B704-9D3CAFAC8172}|KeyGenFramework\\KeyGenFramework.csproj|C:\\Home\\Projects\\CSharp\\Laboratory_6\\KeyGenFramework\\keygenframework\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF568C02-4584-45F5-B704-9D3CAFAC8172}|KeyGenFramework\\KeyGenFramework.csproj|solutionrelative:keygenframework\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maxim\\AppData\\Local\\Temp\\.vsdbgsrc\\e5142f0f003c909188568f3b857598c94916ddfe04ba162b5bf42a3ec0dfaad6\\CryptoStream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maxim\\AppData\\Local\\Temp\\.vsdbgsrc\\1cfd75d69c890cbb91b8192638aaa96ef9f473a44c4c814dffa093d8ade745ab\\__Error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Process.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\AppData\\Local\\Temp\\.vsdbgsrc\\1c0276bcbed3fceb49500b37181d1b62ee18f1ab82cde7bb2e530418b72f2b63\\Process.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Users\\maxim\\AppData\\Local\\Temp\\.vsdbgsrc\\1c0276bcbed3fceb49500b37181d1b62ee18f1ab82cde7bb2e530418b72f2b63\\Process.cs",
+              "ToolTip": "C:\\Users\\maxim\\AppData\\Local\\Temp\\.vsdbgsrc\\1c0276bcbed3fceb49500b37181d1b62ee18f1ab82cde7bb2e530418b72f2b63\\Process.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Users\\maxim\\AppData\\Local\\Temp\\.vsdbgsrc\\1c0276bcbed3fceb49500b37181d1b62ee18f1ab82cde7bb2e530418b72f2b63\\Process.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AQIAAPoIAAAAAAAAAAAhwCUJAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:52:16.638Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "keygen.cd",
+              "DocumentMoniker": "C:\\Home\\Projects\\CSharp\\Laboratory_6\\KeyGenFramework\\KeyGenFramework\\keygen.cd",
+              "RelativeDocumentMoniker": "KeyGenFramework\\keygen.cd",
+              "ToolTip": "C:\\Home\\Projects\\CSharp\\Laboratory_6\\KeyGenFramework\\KeyGenFramework\\keygen.cd",
+              "RelativeToolTip": "KeyGenFramework\\keygen.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-06-03T02:44:47.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Home\\Projects\\CSharp\\Laboratory_6\\KeyGenFramework\\KeyGenFramework\\Program.cs",
+              "RelativeDocumentMoniker": "KeyGenFramework\\Program.cs",
+              "ToolTip": "C:\\Home\\Projects\\CSharp\\Laboratory_6\\KeyGenFramework\\KeyGenFramework\\Program.cs",
+              "RelativeToolTip": "KeyGenFramework\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T03:18:02.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyAes.cs",
+              "DocumentMoniker": "C:\\Home\\Projects\\CSharp\\Laboratory_6\\KeyGenFramework\\KeyGenFramework\\MyAes.cs",
+              "RelativeDocumentMoniker": "KeyGenFramework\\MyAes.cs",
+              "ToolTip": "C:\\Home\\Projects\\CSharp\\Laboratory_6\\KeyGenFramework\\KeyGenFramework\\MyAes.cs",
+              "RelativeToolTip": "KeyGenFramework\\MyAes.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwD4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T03:15:41.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Home\\Projects\\CSharp\\Laboratory_6\\KeyGenFramework\\KeyGenFramework\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "KeyGenFramework\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Home\\Projects\\CSharp\\Laboratory_6\\KeyGenFramework\\KeyGenFramework\\MainForm.Designer.cs",
+              "RelativeToolTip": "KeyGenFramework\\MainForm.Designer.cs",
+              "ViewState": "AQIAAMcAAAAAAAAAAAAqwN4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T02:45:23.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Home\\Projects\\CSharp\\Laboratory_6\\KeyGenFramework\\KeyGenFramework\\MainForm.cs",
+              "RelativeDocumentMoniker": "KeyGenFramework\\MainForm.cs",
+              "ToolTip": "C:\\Home\\Projects\\CSharp\\Laboratory_6\\KeyGenFramework\\KeyGenFramework\\MainForm.cs",
+              "RelativeToolTip": "KeyGenFramework\\MainForm.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswCIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T02:36:46.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Home\\Projects\\CSharp\\Laboratory_6\\KeyGenFramework\\KeyGenFramework\\MainForm.cs",
+              "RelativeDocumentMoniker": "KeyGenFramework\\MainForm.cs",
+              "ToolTip": "C:\\Home\\Projects\\CSharp\\Laboratory_6\\KeyGenFramework\\KeyGenFramework\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "KeyGenFramework\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T02:22:38.48Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "__Error.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\AppData\\Local\\Temp\\.vsdbgsrc\\1cfd75d69c890cbb91b8192638aaa96ef9f473a44c4c814dffa093d8ade745ab\\__Error.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Users\\maxim\\AppData\\Local\\Temp\\.vsdbgsrc\\1cfd75d69c890cbb91b8192638aaa96ef9f473a44c4c814dffa093d8ade745ab\\__Error.cs",
+              "ToolTip": "C:\\Users\\maxim\\AppData\\Local\\Temp\\.vsdbgsrc\\1cfd75d69c890cbb91b8192638aaa96ef9f473a44c4c814dffa093d8ade745ab\\__Error.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Users\\maxim\\AppData\\Local\\Temp\\.vsdbgsrc\\1cfd75d69c890cbb91b8192638aaa96ef9f473a44c4c814dffa093d8ade745ab\\__Error.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T03:25:59.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CryptoStream.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\AppData\\Local\\Temp\\.vsdbgsrc\\e5142f0f003c909188568f3b857598c94916ddfe04ba162b5bf42a3ec0dfaad6\\CryptoStream.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Users\\maxim\\AppData\\Local\\Temp\\.vsdbgsrc\\e5142f0f003c909188568f3b857598c94916ddfe04ba162b5bf42a3ec0dfaad6\\CryptoStream.cs",
+              "ToolTip": "C:\\Users\\maxim\\AppData\\Local\\Temp\\.vsdbgsrc\\e5142f0f003c909188568f3b857598c94916ddfe04ba162b5bf42a3ec0dfaad6\\CryptoStream.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Users\\maxim\\AppData\\Local\\Temp\\.vsdbgsrc\\e5142f0f003c909188568f3b857598c94916ddfe04ba162b5bf42a3ec0dfaad6\\CryptoStream.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T03:35:29.197Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

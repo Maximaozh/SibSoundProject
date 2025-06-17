@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Home\\Projects\\CSharp\\NoiseGeneration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6F019D-1CBF-4A75-956A-5C5E5796B671}|NoiseGeneration\\NoiseGeneration.csproj|C:\\Home\\Projects\\CSharp\\NoiseGeneration\\noisegeneration\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6F019D-1CBF-4A75-956A-5C5E5796B671}|NoiseGeneration\\NoiseGeneration.csproj|solutionrelative:noisegeneration\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6F019D-1CBF-4A75-956A-5C5E5796B671}|NoiseGeneration\\NoiseGeneration.csproj|C:\\Home\\Projects\\CSharp\\NoiseGeneration\\noisegeneration\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B6F019D-1CBF-4A75-956A-5C5E5796B671}|NoiseGeneration\\NoiseGeneration.csproj|solutionrelative:noisegeneration\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6F019D-1CBF-4A75-956A-5C5E5796B671}|NoiseGeneration\\NoiseGeneration.csproj|c:\\home\\projects\\csharp\\noisegeneration\\noisegeneration\\noisegen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6F019D-1CBF-4A75-956A-5C5E5796B671}|NoiseGeneration\\NoiseGeneration.csproj|solutionrelative:noisegeneration\\noisegen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6F019D-1CBF-4A75-956A-5C5E5796B671}|NoiseGeneration\\NoiseGeneration.csproj|C:\\Home\\Projects\\CSharp\\NoiseGeneration\\noisegeneration\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6F019D-1CBF-4A75-956A-5C5E5796B671}|NoiseGeneration\\NoiseGeneration.csproj|solutionrelative:noisegeneration\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|NoiseGeneration||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6F019D-1CBF-4A75-956A-5C5E5796B671}|NoiseGeneration\\NoiseGeneration.csproj|C:\\Home\\Projects\\CSharp\\NoiseGeneration\\noisegeneration\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6B6F019D-1CBF-4A75-956A-5C5E5796B671}|NoiseGeneration\\NoiseGeneration.csproj|solutionrelative:noisegeneration\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6F019D-1CBF-4A75-956A-5C5E5796B671}|NoiseGeneration\\NoiseGeneration.csproj|C:\\Home\\Projects\\CSharp\\NoiseGeneration\\noisegeneration\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6F019D-1CBF-4A75-956A-5C5E5796B671}|NoiseGeneration\\NoiseGeneration.csproj|solutionrelative:noisegeneration\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6F019D-1CBF-4A75-956A-5C5E5796B671}|NoiseGeneration\\NoiseGeneration.csproj|C:\\Home\\Projects\\CSharp\\NoiseGeneration\\noisegeneration\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{6B6F019D-1CBF-4A75-956A-5C5E5796B671}|NoiseGeneration\\NoiseGeneration.csproj|solutionrelative:noisegeneration\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6F019D-1CBF-4A75-956A-5C5E5796B671}|NoiseGeneration\\NoiseGeneration.csproj|C:\\Home\\Projects\\CSharp\\NoiseGeneration\\noisegeneration\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6F019D-1CBF-4A75-956A-5C5E5796B671}|NoiseGeneration\\NoiseGeneration.csproj|solutionrelative:noisegeneration\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6F019D-1CBF-4A75-956A-5C5E5796B671}|NoiseGeneration\\NoiseGeneration.csproj|C:\\Home\\Projects\\CSharp\\NoiseGeneration\\noisegeneration\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{6B6F019D-1CBF-4A75-956A-5C5E5796B671}|NoiseGeneration\\NoiseGeneration.csproj|solutionrelative:noisegeneration\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6F019D-1CBF-4A75-956A-5C5E5796B671}|NoiseGeneration\\NoiseGeneration.csproj|C:\\Home\\Projects\\CSharp\\NoiseGeneration\\noisegeneration\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6F019D-1CBF-4A75-956A-5C5E5796B671}|NoiseGeneration\\NoiseGeneration.csproj|solutionrelative:noisegeneration\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Home\\Projects\\CSharp\\NoiseGeneration\\NoiseGeneration\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "NoiseGeneration\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Home\\Projects\\CSharp\\NoiseGeneration\\NoiseGeneration\\MainForm.Designer.cs",
+              "RelativeToolTip": "NoiseGeneration\\MainForm.Designer.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAASwDwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:25:30.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NoiseGen.cs",
+              "DocumentMoniker": "C:\\Home\\Projects\\CSharp\\NoiseGeneration\\NoiseGeneration\\NoiseGen.cs",
+              "RelativeDocumentMoniker": "NoiseGeneration\\NoiseGen.cs",
+              "ToolTip": "C:\\Home\\Projects\\CSharp\\NoiseGeneration\\NoiseGeneration\\NoiseGen.cs",
+              "RelativeToolTip": "NoiseGeneration\\NoiseGen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T07:55:38.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Home\\Projects\\CSharp\\NoiseGeneration\\NoiseGeneration\\MainForm.cs",
+              "RelativeDocumentMoniker": "NoiseGeneration\\MainForm.cs",
+              "ToolTip": "C:\\Home\\Projects\\CSharp\\NoiseGeneration\\NoiseGeneration\\MainForm.cs",
+              "RelativeToolTip": "NoiseGeneration\\MainForm.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAmwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T07:55:36.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Home\\Projects\\CSharp\\NoiseGeneration\\NoiseGeneration\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "NoiseGeneration\\Properties\\Settings.Designer.cs",
+              "ToolTip": "C:\\Home\\Projects\\CSharp\\NoiseGeneration\\NoiseGeneration\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "NoiseGeneration\\Properties\\Settings.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T07:54:34.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Home\\Projects\\CSharp\\NoiseGeneration\\NoiseGeneration\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "NoiseGeneration\\Properties\\Settings.settings",
+              "ToolTip": "C:\\Home\\Projects\\CSharp\\NoiseGeneration\\NoiseGeneration\\Properties\\Settings.settings",
+              "RelativeToolTip": "NoiseGeneration\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-05-28T07:52:55.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Home\\Projects\\CSharp\\NoiseGeneration\\NoiseGeneration\\MainForm.cs",
+              "RelativeDocumentMoniker": "NoiseGeneration\\MainForm.cs",
+              "ToolTip": "C:\\Home\\Projects\\CSharp\\NoiseGeneration\\NoiseGeneration\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "NoiseGeneration\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T07:51:12.459Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Home\\Projects\\CSharp\\NoiseGeneration\\NoiseGeneration\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "NoiseGeneration\\Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Home\\Projects\\CSharp\\NoiseGeneration\\NoiseGeneration\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "NoiseGeneration\\Properties\\Resources.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T07:54:31.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Home\\Projects\\CSharp\\NoiseGeneration\\NoiseGeneration\\App.config",
+              "RelativeDocumentMoniker": "NoiseGeneration\\App.config",
+              "ToolTip": "C:\\Home\\Projects\\CSharp\\NoiseGeneration\\NoiseGeneration\\App.config",
+              "RelativeToolTip": "NoiseGeneration\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-28T07:52:58.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NoiseGeneration",
+              "DocumentMoniker": "C:\\Home\\Projects\\CSharp\\NoiseGeneration\\NoiseGeneration\\NoiseGeneration.csproj",
+              "RelativeDocumentMoniker": "NoiseGeneration\\NoiseGeneration.csproj",
+              "ToolTip": "C:\\Home\\Projects\\CSharp\\NoiseGeneration\\NoiseGeneration\\NoiseGeneration.csproj",
+              "RelativeToolTip": "NoiseGeneration\\NoiseGeneration.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-28T07:54:21.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Home\\Projects\\CSharp\\NoiseGeneration\\NoiseGeneration\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "NoiseGeneration\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Home\\Projects\\CSharp\\NoiseGeneration\\NoiseGeneration\\Properties\\Resources.resx",
+              "RelativeToolTip": "NoiseGeneration\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-28T07:52:54.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Home\\Projects\\CSharp\\NoiseGeneration\\NoiseGeneration\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "NoiseGeneration\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Home\\Projects\\CSharp\\NoiseGeneration\\NoiseGeneration\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "NoiseGeneration\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T07:52:51.317Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

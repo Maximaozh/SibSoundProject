@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Home\\Projects\\CSharp\\Gain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Gain||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EAF640D-6C1B-44EA-A6C1-44C432439F0A}|Gain\\Gain.csproj|C:\\Home\\Projects\\CSharp\\Gain\\gain\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EAF640D-6C1B-44EA-A6C1-44C432439F0A}|Gain\\Gain.csproj|solutionrelative:gain\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EAF640D-6C1B-44EA-A6C1-44C432439F0A}|Gain\\Gain.csproj|c:\\home\\projects\\csharp\\gain\\gain\\gain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EAF640D-6C1B-44EA-A6C1-44C432439F0A}|Gain\\Gain.csproj|solutionrelative:gain\\gain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EAF640D-6C1B-44EA-A6C1-44C432439F0A}|Gain\\Gain.csproj|C:\\Home\\Projects\\CSharp\\Gain\\gain\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5EAF640D-6C1B-44EA-A6C1-44C432439F0A}|Gain\\Gain.csproj|solutionrelative:gain\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EAF640D-6C1B-44EA-A6C1-44C432439F0A}|Gain\\Gain.csproj|C:\\Home\\Projects\\CSharp\\Gain\\gain\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EAF640D-6C1B-44EA-A6C1-44C432439F0A}|Gain\\Gain.csproj|solutionrelative:gain\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EAF640D-6C1B-44EA-A6C1-44C432439F0A}|Gain\\Gain.csproj|C:\\Home\\Projects\\CSharp\\Gain\\gain\\mainform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{5EAF640D-6C1B-44EA-A6C1-44C432439F0A}|Gain\\Gain.csproj|solutionrelative:gain\\mainform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EAF640D-6C1B-44EA-A6C1-44C432439F0A}|Gain\\Gain.csproj|c:\\home\\projects\\csharp\\gain\\gain\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Gain",
+              "DocumentMoniker": "C:\\Home\\Projects\\CSharp\\Gain\\Gain\\Gain.csproj",
+              "RelativeDocumentMoniker": "Gain\\Gain.csproj",
+              "ToolTip": "C:\\Home\\Projects\\CSharp\\Gain\\Gain\\Gain.csproj",
+              "RelativeToolTip": "Gain\\Gain.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-31T23:14:26.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.resx",
+              "DocumentMoniker": "C:\\Home\\Projects\\CSharp\\Gain\\Gain\\MainForm.resx",
+              "RelativeDocumentMoniker": "Gain\\MainForm.resx",
+              "ToolTip": "C:\\Home\\Projects\\CSharp\\Gain\\Gain\\MainForm.resx",
+              "RelativeToolTip": "Gain\\MainForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-31T23:09:13.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Home\\Projects\\CSharp\\Gain\\Gain\\MainForm.cs",
+              "RelativeDocumentMoniker": "Gain\\MainForm.cs",
+              "ToolTip": "C:\\Home\\Projects\\CSharp\\Gain\\Gain\\MainForm.cs",
+              "RelativeToolTip": "Gain\\MainForm.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAcwD4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T23:08:50.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gain.cs",
+              "DocumentMoniker": "C:\\Home\\Projects\\CSharp\\Gain\\Gain\\Gain.cs",
+              "RelativeDocumentMoniker": "Gain\\Gain.cs",
+              "ToolTip": "C:\\Home\\Projects\\CSharp\\Gain\\Gain\\Gain.cs",
+              "RelativeToolTip": "Gain\\Gain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T23:07:29.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Home\\Projects\\CSharp\\Gain\\Gain\\MainForm.cs",
+              "RelativeDocumentMoniker": "Gain\\MainForm.cs",
+              "ToolTip": "C:\\Home\\Projects\\CSharp\\Gain\\Gain\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Gain\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T23:07:28.849Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Home\\Projects\\CSharp\\Gain\\Gain\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "Gain\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Home\\Projects\\CSharp\\Gain\\Gain\\MainForm.Designer.cs",
+              "RelativeToolTip": "Gain\\MainForm.Designer.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAowA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T23:07:28.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

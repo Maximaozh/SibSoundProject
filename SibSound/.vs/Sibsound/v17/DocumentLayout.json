@@ -1,0 +1,372 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{820E085C-DC45-4AC3-903F-1DBF5CE39C5E}|Sibsound\\Sibsound.csproj|d:\\resume\\somefiles\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0438\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\sibsound\\sibsound\\audiotrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820E085C-DC45-4AC3-903F-1DBF5CE39C5E}|Sibsound\\Sibsound.csproj|solutionrelative:sibsound\\audiotrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Sibsound||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820E085C-DC45-4AC3-903F-1DBF5CE39C5E}|Sibsound\\Sibsound.csproj|D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\sibsound\\mainwindow.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{820E085C-DC45-4AC3-903F-1DBF5CE39C5E}|Sibsound\\Sibsound.csproj|solutionrelative:sibsound\\mainwindow.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820E085C-DC45-4AC3-903F-1DBF5CE39C5E}|Sibsound\\Sibsound.csproj|D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\sibsound\\mainwindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820E085C-DC45-4AC3-903F-1DBF5CE39C5E}|Sibsound\\Sibsound.csproj|solutionrelative:sibsound\\mainwindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820E085C-DC45-4AC3-903F-1DBF5CE39C5E}|Sibsound\\Sibsound.csproj|D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\sibsound\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820E085C-DC45-4AC3-903F-1DBF5CE39C5E}|Sibsound\\Sibsound.csproj|solutionrelative:sibsound\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820E085C-DC45-4AC3-903F-1DBF5CE39C5E}|Sibsound\\Sibsound.csproj|D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\sibsound\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{820E085C-DC45-4AC3-903F-1DBF5CE39C5E}|Sibsound\\Sibsound.csproj|solutionrelative:sibsound\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maxim\\AppData\\Local\\Temp\\.vsdbgsrc\\06b29c6a73a44e4fc634344c41761a59a9bbe07eab67d8aedc9ed6184596b251\\Graphics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820E085C-DC45-4AC3-903F-1DBF5CE39C5E}|Sibsound\\Sibsound.csproj|D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\sibsound\\loadedplugins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{820E085C-DC45-4AC3-903F-1DBF5CE39C5E}|Sibsound\\Sibsound.csproj|solutionrelative:sibsound\\loadedplugins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820E085C-DC45-4AC3-903F-1DBF5CE39C5E}|Sibsound\\Sibsound.csproj|D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\sibsound\\audiotrack.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{820E085C-DC45-4AC3-903F-1DBF5CE39C5E}|Sibsound\\Sibsound.csproj|solutionrelative:sibsound\\audiotrack.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820E085C-DC45-4AC3-903F-1DBF5CE39C5E}|Sibsound\\Sibsound.csproj|D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\sibsound\\audiotrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{820E085C-DC45-4AC3-903F-1DBF5CE39C5E}|Sibsound\\Sibsound.csproj|solutionrelative:sibsound\\audiotrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820E085C-DC45-4AC3-903F-1DBF5CE39C5E}|Sibsound\\Sibsound.csproj|D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\sibsound\\audiotrack.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820E085C-DC45-4AC3-903F-1DBF5CE39C5E}|Sibsound\\Sibsound.csproj|solutionrelative:sibsound\\audiotrack.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820E085C-DC45-4AC3-903F-1DBF5CE39C5E}|Sibsound\\Sibsound.csproj|D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\sibsound\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{820E085C-DC45-4AC3-903F-1DBF5CE39C5E}|Sibsound\\Sibsound.csproj|solutionrelative:sibsound\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820E085C-DC45-4AC3-903F-1DBF5CE39C5E}|Sibsound\\Sibsound.csproj|D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\sibsound\\secures\\verify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820E085C-DC45-4AC3-903F-1DBF5CE39C5E}|Sibsound\\Sibsound.csproj|solutionrelative:sibsound\\secures\\verify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maxim\\AppData\\Local\\Temp\\.vsdbgsrc\\1c0276bcbed3fceb49500b37181d1b62ee18f1ab82cde7bb2e530418b72f2b63\\Process.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820E085C-DC45-4AC3-903F-1DBF5CE39C5E}|Sibsound\\Sibsound.csproj|D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\sibsound\\editor.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{820E085C-DC45-4AC3-903F-1DBF5CE39C5E}|Sibsound\\Sibsound.csproj|solutionrelative:sibsound\\editor.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820E085C-DC45-4AC3-903F-1DBF5CE39C5E}|Sibsound\\Sibsound.csproj|D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\sibsound\\editors\\basicaudioeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820E085C-DC45-4AC3-903F-1DBF5CE39C5E}|Sibsound\\Sibsound.csproj|solutionrelative:sibsound\\editors\\basicaudioeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820E085C-DC45-4AC3-903F-1DBF5CE39C5E}|Sibsound\\Sibsound.csproj|D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\sibsound\\audios\\audiodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820E085C-DC45-4AC3-903F-1DBF5CE39C5E}|Sibsound\\Sibsound.csproj|solutionrelative:sibsound\\audios\\audiodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820E085C-DC45-4AC3-903F-1DBF5CE39C5E}|Sibsound\\Sibsound.csproj|D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\sibsound\\plugins\\pluginmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820E085C-DC45-4AC3-903F-1DBF5CE39C5E}|Sibsound\\Sibsound.csproj|solutionrelative:sibsound\\plugins\\pluginmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820E085C-DC45-4AC3-903F-1DBF5CE39C5E}|Sibsound\\Sibsound.csproj|D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\sibsound\\loadedplugins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820E085C-DC45-4AC3-903F-1DBF5CE39C5E}|Sibsound\\Sibsound.csproj|solutionrelative:sibsound\\loadedplugins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820E085C-DC45-4AC3-903F-1DBF5CE39C5E}|Sibsound\\Sibsound.csproj|D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\sibsound\\loadedplugins.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820E085C-DC45-4AC3-903F-1DBF5CE39C5E}|Sibsound\\Sibsound.csproj|solutionrelative:sibsound\\loadedplugins.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820E085C-DC45-4AC3-903F-1DBF5CE39C5E}|Sibsound\\Sibsound.csproj|D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\sibsound\\loadedplugins.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{820E085C-DC45-4AC3-903F-1DBF5CE39C5E}|Sibsound\\Sibsound.csproj|solutionrelative:sibsound\\loadedplugins.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820E085C-DC45-4AC3-903F-1DBF5CE39C5E}|Sibsound\\Sibsound.csproj|D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\sibsound\\secures\\myaes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820E085C-DC45-4AC3-903F-1DBF5CE39C5E}|Sibsound\\Sibsound.csproj|solutionrelative:sibsound\\secures\\myaes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Home\\Projects\\CSharp\\AudioData\\AudioData\\AudioData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AudioTrack.cs [Design]",
+              "DocumentMoniker": "D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\Sibsound\\AudioTrack.cs",
+              "RelativeDocumentMoniker": "Sibsound\\AudioTrack.cs",
+              "ToolTip": "D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\Sibsound\\AudioTrack.cs [Design]",
+              "RelativeToolTip": "Sibsound\\AudioTrack.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:09:54.388Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoadedPlugins.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\Sibsound\\LoadedPlugins.cs",
+              "RelativeDocumentMoniker": "Sibsound\\LoadedPlugins.cs",
+              "ToolTip": "C:\\Home\\Projects\\SibSound\\Sibsound\\LoadedPlugins.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:37:40.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AudioTrack.cs",
+              "DocumentMoniker": "D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\Sibsound\\AudioTrack.cs",
+              "RelativeDocumentMoniker": "Sibsound\\AudioTrack.cs",
+              "ToolTip": "D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\Sibsound\\AudioTrack.cs",
+              "RelativeToolTip": "Sibsound\\AudioTrack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAP4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:09:43.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sibsound",
+              "DocumentMoniker": "D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\Sibsound\\Sibsound.csproj",
+              "RelativeDocumentMoniker": "Sibsound\\Sibsound.csproj",
+              "ToolTip": "D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\Sibsound\\Sibsound.csproj",
+              "RelativeToolTip": "Sibsound\\Sibsound.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-03T02:15:45.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\Sibsound\\MainWindow.cs",
+              "RelativeDocumentMoniker": "Sibsound\\MainWindow.cs",
+              "ToolTip": "C:\\Home\\Projects\\SibSound\\Sibsound\\MainWindow.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T02:26:20.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.resx",
+              "DocumentMoniker": "D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\Sibsound\\MainWindow.resx",
+              "RelativeDocumentMoniker": "Sibsound\\MainWindow.resx",
+              "ToolTip": "D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\Sibsound\\MainWindow.resx",
+              "RelativeToolTip": "Sibsound\\MainWindow.resx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-03T16:49:54.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.Designer.cs",
+              "DocumentMoniker": "D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\Sibsound\\MainWindow.Designer.cs",
+              "RelativeDocumentMoniker": "Sibsound\\MainWindow.Designer.cs",
+              "ToolTip": "D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\Sibsound\\MainWindow.Designer.cs",
+              "RelativeToolTip": "Sibsound\\MainWindow.Designer.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwCgAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:07:07.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.cs",
+              "DocumentMoniker": "D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\Sibsound\\MainWindow.cs",
+              "RelativeDocumentMoniker": "Sibsound\\MainWindow.cs",
+              "ToolTip": "D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\Sibsound\\MainWindow.cs",
+              "RelativeToolTip": "Sibsound\\MainWindow.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAADgvzkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:07:43.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AudioTrack.Designer.cs",
+              "DocumentMoniker": "D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\Sibsound\\AudioTrack.Designer.cs",
+              "RelativeDocumentMoniker": "Sibsound\\AudioTrack.Designer.cs",
+              "ToolTip": "D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\Sibsound\\AudioTrack.Designer.cs",
+              "RelativeToolTip": "Sibsound\\AudioTrack.Designer.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAjwGwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T16:42:32.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AudioTrack.resx",
+              "DocumentMoniker": "D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\Sibsound\\AudioTrack.resx",
+              "RelativeDocumentMoniker": "Sibsound\\AudioTrack.resx",
+              "ToolTip": "D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\Sibsound\\AudioTrack.resx",
+              "RelativeToolTip": "Sibsound\\AudioTrack.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-03T16:45:02.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Graphics.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\AppData\\Local\\Temp\\.vsdbgsrc\\06b29c6a73a44e4fc634344c41761a59a9bbe07eab67d8aedc9ed6184596b251\\Graphics.cs",
+              "ToolTip": "C:\\Users\\maxim\\AppData\\Local\\Temp\\.vsdbgsrc\\06b29c6a73a44e4fc634344c41761a59a9bbe07eab67d8aedc9ed6184596b251\\Graphics.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T16:40:07.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\Sibsound\\packages.config",
+              "RelativeDocumentMoniker": "Sibsound\\packages.config",
+              "ToolTip": "D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\Sibsound\\packages.config",
+              "RelativeToolTip": "Sibsound\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-03T02:26:17.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Verify.cs",
+              "DocumentMoniker": "D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\Sibsound\\Secures\\Verify.cs",
+              "RelativeDocumentMoniker": "Sibsound\\Secures\\Verify.cs",
+              "ToolTip": "D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\Sibsound\\Secures\\Verify.cs",
+              "RelativeToolTip": "Sibsound\\Secures\\Verify.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAIwFMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T02:18:46.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Process.cs",
+              "DocumentMoniker": "C:\\Users\\maxim\\AppData\\Local\\Temp\\.vsdbgsrc\\1c0276bcbed3fceb49500b37181d1b62ee18f1ab82cde7bb2e530418b72f2b63\\Process.cs",
+              "ToolTip": "C:\\Users\\maxim\\AppData\\Local\\Temp\\.vsdbgsrc\\1c0276bcbed3fceb49500b37181d1b62ee18f1ab82cde7bb2e530418b72f2b63\\Process.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:10:03.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Editor.cd",
+              "DocumentMoniker": "D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\Sibsound\\Editor.cd",
+              "RelativeDocumentMoniker": "Sibsound\\Editor.cd",
+              "ToolTip": "D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\Sibsound\\Editor.cd",
+              "RelativeToolTip": "Sibsound\\Editor.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-06-03T02:11:17.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BasicAudioEditor.cs",
+              "DocumentMoniker": "D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\Sibsound\\Editors\\BasicAudioEditor.cs",
+              "RelativeDocumentMoniker": "Sibsound\\Editors\\BasicAudioEditor.cs",
+              "ToolTip": "D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\Sibsound\\Editors\\BasicAudioEditor.cs",
+              "RelativeToolTip": "Sibsound\\Editors\\BasicAudioEditor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:42:12.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AudioData.cs",
+              "DocumentMoniker": "D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\Sibsound\\Audios\\AudioData.cs",
+              "RelativeDocumentMoniker": "Sibsound\\Audios\\AudioData.cs",
+              "ToolTip": "D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\Sibsound\\Audios\\AudioData.cs",
+              "RelativeToolTip": "Sibsound\\Audios\\AudioData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T03:51:46.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PluginManager.cs",
+              "DocumentMoniker": "D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\Sibsound\\Plugins\\PluginManager.cs",
+              "RelativeDocumentMoniker": "Sibsound\\Plugins\\PluginManager.cs",
+              "ToolTip": "D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\Sibsound\\Plugins\\PluginManager.cs",
+              "RelativeToolTip": "Sibsound\\Plugins\\PluginManager.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T02:11:26.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoadedPlugins.cs",
+              "DocumentMoniker": "D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\Sibsound\\LoadedPlugins.cs",
+              "RelativeDocumentMoniker": "Sibsound\\LoadedPlugins.cs",
+              "ToolTip": "D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\Sibsound\\LoadedPlugins.cs",
+              "RelativeToolTip": "Sibsound\\LoadedPlugins.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:37:53.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoadedPlugins.Designer.cs",
+              "DocumentMoniker": "D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\Sibsound\\LoadedPlugins.Designer.cs",
+              "RelativeDocumentMoniker": "Sibsound\\LoadedPlugins.Designer.cs",
+              "ToolTip": "D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\Sibsound\\LoadedPlugins.Designer.cs",
+              "RelativeToolTip": "Sibsound\\LoadedPlugins.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T02:31:10.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoadedPlugins.resx",
+              "DocumentMoniker": "D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\Sibsound\\LoadedPlugins.resx",
+              "RelativeDocumentMoniker": "Sibsound\\LoadedPlugins.resx",
+              "ToolTip": "D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\Sibsound\\LoadedPlugins.resx",
+              "RelativeToolTip": "Sibsound\\LoadedPlugins.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-03T02:31:12.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MyAes.cs",
+              "DocumentMoniker": "D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\Sibsound\\Secures\\MyAes.cs",
+              "RelativeDocumentMoniker": "Sibsound\\Secures\\MyAes.cs",
+              "ToolTip": "D:\\resume\\somefiles\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0418\u0441\u0445\u043E\u0434\u043D\u044B\u0435 \u0434\u0430\u043D\u043D\u044B\u0435\\SibSound\\Sibsound\\Secures\\MyAes.cs",
+              "RelativeToolTip": "Sibsound\\Secures\\MyAes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T02:18:46.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AudioData.cs",
+              "DocumentMoniker": "C:\\Home\\Projects\\CSharp\\AudioData\\AudioData\\AudioData.cs",
+              "ToolTip": "C:\\Home\\Projects\\CSharp\\AudioData\\AudioData\\AudioData.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:25:44.555Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

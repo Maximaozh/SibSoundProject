@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Home\\Projects\\CSharp\\AudioData\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{187BA78C-A9C2-4406-BA0C-D76CACB0CEBD}|AudioData\\AudioData.csproj|c:\\home\\projects\\csharp\\audiodata\\audiodata\\audiodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187BA78C-A9C2-4406-BA0C-D76CACB0CEBD}|AudioData\\AudioData.csproj|solutionrelative:audiodata\\audiodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187BA78C-A9C2-4406-BA0C-D76CACB0CEBD}|AudioData\\AudioData.csproj|c:\\home\\projects\\csharp\\audiodata\\audiodata\\audiodata.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{187BA78C-A9C2-4406-BA0C-D76CACB0CEBD}|AudioData\\AudioData.csproj|solutionrelative:audiodata\\audiodata.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "audiodata.cd",
+              "DocumentMoniker": "C:\\Home\\Projects\\CSharp\\AudioData\\AudioData\\audiodata.cd",
+              "RelativeDocumentMoniker": "AudioData\\audiodata.cd",
+              "ToolTip": "C:\\Home\\Projects\\CSharp\\AudioData\\AudioData\\audiodata.cd",
+              "RelativeToolTip": "AudioData\\audiodata.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-06-03T03:54:34.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AudioData.cs",
+              "DocumentMoniker": "C:\\Home\\Projects\\CSharp\\AudioData\\AudioData\\AudioData.cs",
+              "RelativeDocumentMoniker": "AudioData\\AudioData.cs",
+              "ToolTip": "C:\\Home\\Projects\\CSharp\\AudioData\\AudioData\\AudioData.cs",
+              "RelativeToolTip": "AudioData\\AudioData.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwLUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T07:13:19.068Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

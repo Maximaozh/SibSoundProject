@@ -1,0 +1,10 @@
+C:\Home\Projects\CSharp\Laboratory_6\KeyGenFramework\KeyGenFramework\bin\Debug\KeyGenFramework.exe.config
+C:\Home\Projects\CSharp\Laboratory_6\KeyGenFramework\KeyGenFramework\bin\Debug\KeyGenFramework.exe
+C:\Home\Projects\CSharp\Laboratory_6\KeyGenFramework\KeyGenFramework\bin\Debug\KeyGenFramework.pdb
+C:\Home\Projects\CSharp\Laboratory_6\KeyGenFramework\KeyGenFramework\obj\Debug\KeyGenFramework.csproj.AssemblyReference.cache
+C:\Home\Projects\CSharp\Laboratory_6\KeyGenFramework\KeyGenFramework\obj\Debug\KeyGenFramework.MainForm.resources
+C:\Home\Projects\CSharp\Laboratory_6\KeyGenFramework\KeyGenFramework\obj\Debug\KeyGenFramework.Properties.Resources.resources
+C:\Home\Projects\CSharp\Laboratory_6\KeyGenFramework\KeyGenFramework\obj\Debug\KeyGenFramework.csproj.GenerateResource.cache
+C:\Home\Projects\CSharp\Laboratory_6\KeyGenFramework\KeyGenFramework\obj\Debug\KeyGenFramework.csproj.CoreCompileInputs.cache
+C:\Home\Projects\CSharp\Laboratory_6\KeyGenFramework\KeyGenFramework\obj\Debug\KeyGenFramework.exe
+C:\Home\Projects\CSharp\Laboratory_6\KeyGenFramework\KeyGenFramework\obj\Debug\KeyGenFramework.pdb
